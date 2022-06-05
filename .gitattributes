@@ -1,0 +1,2 @@
+.ipynb filter=lfs diff=lfs merge=lfs -text
+forecasting_net_prophet.ipynb filter=lfs diff=lfs merge=lfs -text
